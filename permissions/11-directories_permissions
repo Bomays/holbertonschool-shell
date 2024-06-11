@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 ugo+xrw -R a+X * 
+chmod -R ugo+x a+X * 

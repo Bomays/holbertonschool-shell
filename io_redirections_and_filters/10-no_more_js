@@ -1,2 +1,2 @@
 #!/bin/bash
-rm find . -name *.js -delete
+rm -r holbertonschool-shell/io_redirections_and_filters/**/*.js
